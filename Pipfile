@@ -11,6 +11,12 @@ Sphinx = "*"
 [packages]
 src = {editable = true, path = "./"}
 awscli = "*"
+pandas = "*"
+matplotlib = "*"
+pmdarima = "*"
+mlflow = "*"
+ipynb = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.8"
